@@ -1,0 +1,54 @@
+html { 
+  background: url(img/wood2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+
+body{
+background-color: rgba(0,0,0,0.6);
+color: white;
+margin: 15px;
+}
+
+img{
+width: 65%;
+height: 60%;
+padding: 8px;
+border:3px solid white;
+background-color:black;
+margin: 15px;
+}
+
+h1{
+margin-left: 0.4em;
+font-size : 40pt;
+font-weight: bold;
+}
+
+h2{
+padding: 10px;
+font-size: 25pt;
+}
+
+h3{
+padding: 5px;
+font-size: 18pt;
+}
+
+p{
+margin: 15px;
+font-size: 14pt;
+}
+
+a:link{
+color: red;
+}
+
+a:visited{
+color: orange;
+}
+
+a:hover {
+color: #8bdaff;
+}
